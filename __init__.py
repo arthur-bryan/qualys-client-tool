@@ -1,0 +1,6 @@
+__author__ = "Arthur Bryan de Moura Gonçalves"
+__author_email__ = "arthur.goncalves@dock.tech"
+__license__ = "MIT"
+__maintainer_email__ = "arthur.goncalves@dock.tech"
+__url__ = "https://github.com/arthur-bryan"
+__version__ = "0.1.0"

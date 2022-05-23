@@ -1,0 +1,61 @@
+QID,SEVERITY,HOSTNAME,IP ADDRESS,STATUS,TITLE,FIRST DETECTED,LAST DETECTED
+90019,4,az3p-rnndb-42,10.91.58.42,Active,Detected LanMan/NTLMv1 Authentication method,2021-06-28 19:17:20,2022-05-22 21:46:19
+91851,4,az3p-rnndb-42,10.91.58.42,Active,Microsoft Windows Security Update for January 2022,2022-01-12 12:08:00,2022-05-22 21:46:19
+91857,4,az3p-rnndb-42,10.91.58.42,Active,Microsoft Windows Security Update for February 2022,2022-02-09 11:49:53,2022-05-22 21:46:19
+91870,4,az3p-rnndb-42,10.91.58.42,Active,Microsoft Windows Security Update for March 2022,2022-03-09 13:27:49,2022-05-22 21:46:19
+91879,4,az3p-rnndb-42,10.91.58.42,Active,Microsoft Windows Security Update for April 2022,2022-04-13 09:58:43,2022-05-22 21:46:19
+91896,4,az3p-rnndb-42,10.91.58.42,Active,Microsoft Windows Cluster Shared Volume (CSV) Multiple Vulnerabilities for May 2022,2022-05-11 18:43:23,2022-05-22 21:46:19
+91897,4,az3p-rnndb-42,10.91.58.42,Active,Microsoft Windows Security Update for May 2022,2022-05-11 18:43:23,2022-05-22 21:46:19
+91899,4,az3p-rnndb-42,10.91.58.42,Active,Microsoft Windows Hyper-V Shared Virtual Disk Elevation of Privilege Vulnerability for May 2022,2022-05-11 18:43:23,2022-05-22 21:46:19
+376232,4,az3p-rnndb-42,10.91.58.42,Active,Microsoft Windows Internet Key Exchange (IKE) Extension Multiple Vulnerabilities for January 2022,2022-01-12 12:08:00,2022-05-22 21:46:19
+91851,4,az3p-pnbdb-172,10.91.55.172,Active,Microsoft Windows Security Update for January 2022,2022-01-12 08:12:12,2022-05-23 00:30:29
+91857,4,az3p-pnbdb-172,10.91.55.172,Active,Microsoft Windows Security Update for February 2022,2022-02-09 09:01:27,2022-05-23 00:30:29
+91870,4,az3p-pnbdb-172,10.91.55.172,Active,Microsoft Windows Security Update for March 2022,2022-03-09 12:19:47,2022-05-23 00:30:29
+91879,4,az3p-pnbdb-172,10.91.55.172,Active,Microsoft Windows Security Update for April 2022,2022-04-13 10:11:24,2022-05-23 00:30:29
+91896,4,az3p-pnbdb-172,10.91.55.172,Active,Microsoft Windows Cluster Shared Volume (CSV) Multiple Vulnerabilities for May 2022,2022-05-11 19:30:07,2022-05-23 00:30:29
+91897,4,az3p-pnbdb-172,10.91.55.172,Active,Microsoft Windows Security Update for May 2022,2022-05-11 19:30:07,2022-05-23 00:30:29
+91899,4,az3p-pnbdb-172,10.91.55.172,Active,Microsoft Windows Hyper-V Shared Virtual Disk Elevation of Privilege Vulnerability for May 2022,2022-05-11 19:30:07,2022-05-23 00:30:29
+376232,4,az3p-pnbdb-172,10.91.55.172,Active,Microsoft Windows Internet Key Exchange (IKE) Extension Multiple Vulnerabilities for January 2022,2022-01-12 08:12:12,2022-05-23 00:30:29
+91851,4,az3p-pci4db-36,10.91.46.36,Active,Microsoft Windows Security Update for January 2022,2022-01-12 09:33:50,2022-05-22 21:15:59
+91857,4,az3p-pci4db-36,10.91.46.36,Active,Microsoft Windows Security Update for February 2022,2022-02-09 11:28:04,2022-05-22 21:15:59
+91870,4,az3p-pci4db-36,10.91.46.36,Active,Microsoft Windows Security Update for March 2022,2022-03-09 10:40:30,2022-05-22 21:15:59
+91879,4,az3p-pci4db-36,10.91.46.36,Active,Microsoft Windows Security Update for April 2022,2022-04-13 12:01:51,2022-05-22 21:15:59
+91896,4,az3p-pci4db-36,10.91.46.36,Active,Microsoft Windows Cluster Shared Volume (CSV) Multiple Vulnerabilities for May 2022,2022-05-11 20:56:25,2022-05-22 21:15:59
+91897,4,az3p-pci4db-36,10.91.46.36,Active,Microsoft Windows Security Update for May 2022,2022-05-11 20:56:25,2022-05-22 21:15:59
+91899,4,az3p-pci4db-36,10.91.46.36,Active,Microsoft Windows Hyper-V Shared Virtual Disk Elevation of Privilege Vulnerability for May 2022,2022-05-11 20:56:25,2022-05-22 21:15:59
+376232,4,az3p-pci4db-36,10.91.46.36,Active,Microsoft Windows Internet Key Exchange (IKE) Extension Multiple Vulnerabilities for January 2022,2022-01-12 09:33:50,2022-05-22 21:15:59
+91851,4,az1p-bmgdb-55,10.50.12.55,Active,Microsoft Windows Security Update for January 2022,2022-01-12 12:01:37,2022-05-22 23:07:59
+91857,4,az1p-bmgdb-55,10.50.12.55,Active,Microsoft Windows Security Update for February 2022,2022-02-09 13:42:46,2022-05-22 23:07:59
+91870,4,az1p-bmgdb-55,10.50.12.55,Active,Microsoft Windows Security Update for March 2022,2022-03-09 12:27:15,2022-05-22 23:07:59
+91879,4,az1p-bmgdb-55,10.50.12.55,Active,Microsoft Windows Security Update for April 2022,2022-04-13 09:37:53,2022-05-22 23:07:59
+91896,4,az1p-bmgdb-55,10.50.12.55,Active,Microsoft Windows Cluster Shared Volume (CSV) Multiple Vulnerabilities for May 2022,2022-05-11 18:13:51,2022-05-22 23:07:59
+91897,4,az1p-bmgdb-55,10.50.12.55,Active,Microsoft Windows Security Update for May 2022,2022-05-11 18:13:51,2022-05-22 23:07:59
+91899,4,az1p-bmgdb-55,10.50.12.55,Active,Microsoft Windows Hyper-V Shared Virtual Disk Elevation of Privilege Vulnerability for May 2022,2022-05-11 18:13:51,2022-05-22 23:07:59
+376232,4,az1p-bmgdb-55,10.50.12.55,Active,Microsoft Windows Internet Key Exchange (IKE) Extension Multiple Vulnerabilities for January 2022,2022-01-12 12:01:37,2022-05-22 23:07:59
+91851,4,az1p-pci2db-128,10.50.50.128,Active,Microsoft Windows Security Update for January 2022,2022-01-18 02:12:26,2022-05-22 22:29:03
+91857,4,az1p-pci2db-128,10.50.50.128,Active,Microsoft Windows Security Update for February 2022,2022-02-09 08:48:00,2022-05-22 22:29:03
+91870,4,az1p-pci2db-128,10.50.50.128,Active,Microsoft Windows Security Update for March 2022,2022-03-09 11:00:08,2022-05-22 22:29:03
+91879,4,az1p-pci2db-128,10.50.50.128,Active,Microsoft Windows Security Update for April 2022,2022-04-13 10:33:41,2022-05-22 22:29:03
+91896,4,az1p-pci2db-128,10.50.50.128,Active,Microsoft Windows Cluster Shared Volume (CSV) Multiple Vulnerabilities for May 2022,2022-05-11 21:09:44,2022-05-22 22:29:03
+91897,4,az1p-pci2db-128,10.50.50.128,Active,Microsoft Windows Security Update for May 2022,2022-05-11 21:09:44,2022-05-22 22:29:03
+91899,4,az1p-pci2db-128,10.50.50.128,Active,Microsoft Windows Hyper-V Shared Virtual Disk Elevation of Privilege Vulnerability for May 2022,2022-05-11 21:09:44,2022-05-22 22:29:03
+376232,4,az1p-pci2db-128,10.50.50.128,Active,Microsoft Windows Internet Key Exchange (IKE) Extension Multiple Vulnerabilities for January 2022,2022-01-18 02:12:26,2022-05-22 22:29:03
+91824,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Security Update for October 2021,2022-01-18 02:06:24,2022-05-22 23:55:16
+91832,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Security Update for November 2021,2022-01-18 02:06:24,2022-05-22 23:55:16
+91846,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Security Update for December 2021,2022-01-18 02:06:24,2022-05-22 23:55:16
+91851,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Security Update for January 2022,2022-01-18 02:06:24,2022-05-22 23:55:16
+91857,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Security Update for February 2022,2022-02-09 10:01:40,2022-05-22 23:55:16
+91870,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Security Update for March 2022,2022-03-09 08:32:20,2022-05-22 23:55:16
+91879,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Security Update for April 2022,2022-04-13 11:07:28,2022-05-22 23:55:16
+91896,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Cluster Shared Volume (CSV) Multiple Vulnerabilities for May 2022,2022-05-11 22:38:40,2022-05-22 23:55:16
+91897,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Security Update for May 2022,2022-05-11 22:38:40,2022-05-22 23:55:16
+91899,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Hyper-V Shared Virtual Disk Elevation of Privilege Vulnerability for May 2022,2022-05-11 22:38:40,2022-05-22 23:55:16
+376232,4,az2p-odindb-5,10.53.91.5,Active,Microsoft Windows Internet Key Exchange (IKE) Extension Multiple Vulnerabilities for January 2022,2022-01-18 02:06:24,2022-05-22 23:55:16
+91851,4,az1p-pci2db-129,10.50.50.129,Active,Microsoft Windows Security Update for January 2022,2022-01-17 22:33:07,2022-05-22 23:15:46
+91857,4,az1p-pci2db-129,10.50.50.129,Active,Microsoft Windows Security Update for February 2022,2022-02-09 10:28:20,2022-05-22 23:15:46
+91870,4,az1p-pci2db-129,10.50.50.129,Active,Microsoft Windows Security Update for March 2022,2022-03-09 12:27:19,2022-05-22 23:15:46
+91879,4,az1p-pci2db-129,10.50.50.129,Active,Microsoft Windows Security Update for April 2022,2022-04-13 11:44:13,2022-05-22 23:15:46
+91896,4,az1p-pci2db-129,10.50.50.129,Active,Microsoft Windows Cluster Shared Volume (CSV) Multiple Vulnerabilities for May 2022,2022-05-11 22:45:03,2022-05-22 23:15:46
+91897,4,az1p-pci2db-129,10.50.50.129,Active,Microsoft Windows Security Update for May 2022,2022-05-11 22:45:03,2022-05-22 23:15:46
+91899,4,az1p-pci2db-129,10.50.50.129,Active,Microsoft Windows Hyper-V Shared Virtual Disk Elevation of Privilege Vulnerability for May 2022,2022-05-11 22:45:03,2022-05-22 23:15:46
+376232,4,az1p-pci2db-129,10.50.50.129,Active,Microsoft Windows Internet Key Exchange (IKE) Extension Multiple Vulnerabilities for January 2022,2022-01-17 22:33:07,2022-05-22 23:15:46
