@@ -1,9 +1,21 @@
 class Viewer:
+    """
+    Class that represents the Viewer, responsible to show the data in a proper way.
 
+    Attributes:
+        line_width (int): maximum size of the line when showing data.
+    """
     def __init__(self):
+        """Contructor method of class Viewer."""
         self.line_width = 225
 
-    def show_detections(self, detections):
+    def show_detections(self, detections: list):
+        """
+        Show formated data from detections results.
+
+        Args:
+            detections: list containing the Asset objects, results from detections.
+        """
         num_assets = num_vulns = 0
         vulns = []
         print("*" * self.line_width)
@@ -25,14 +37,27 @@ class Viewer:
         del vulns, num_vulns, num_assets
 
     @staticmethod
-    def show_menu_options(title, options):
+    def show_menu_options(title: str, options: list):
+        """
+        Show formated menu options.
+
+        Args:
+            title: title of the menu.
+            options: list containing menu options.
+        """
         options.append("Back")
         print(f"\n[ {title} ] Choose an option:")
         for num, option in enumerate(options):
             print(f"[ {num + 1} ] {option}")
 
     @staticmethod
-    def show_file_manager_cache(cache):
+    def show_file_manager_cache(cache: list):
+        """
+        Show the sheet names stored on the cache of the file manager.
+
+        Args:
+            cache: list containing dicts with the detections tags and its contents, eg: [{"tag": [vuln1, vuln2]}].
+        """
         print("[ CACHE ] Files currently on cache:")
         for sheet in cache:
             print(list(sheet.keys())[0])

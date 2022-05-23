@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import sys
 from controllers.controller import Controller
 from models.menu import Menu
@@ -7,6 +9,7 @@ controller = Controller()
 
 
 def main():
+	"""Entry point of the program. Use is done through menus."""
 	while True:
 		main_menu = Menu(controller, "MAIN MENU", ["Get detections from Qualys"])
 		choice = main_menu.open()
@@ -25,7 +28,7 @@ def main():
 				chosen_payload = query_payload_menu.options[query_payload_menu_choice - 1]
 				payload_data = payloads[chosen_payload]
 				detections = controller.handle_vm_detections(payload_data)
-				detections = controller.filter_date(detections, chosen_payload)
+				detections = controller.filter_period(detections, chosen_payload)
 				controller.viewer.show_detections(detections)
 				controller.save_data(detections, chosen_payload)
 			elif search_type_menu_choice == 2:
