@@ -132,9 +132,10 @@ class Controller:
         date_today = date.today()
         detections = []
         helper_dict = {
-            "last": "<=",
+            "last": "<",
             "more": ">=",
             "7_days": "7",
+            "12_days": "12",
             "30_days": "30"
         }
         for asset in data:
